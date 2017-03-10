@@ -1,8 +1,8 @@
 # start server with : bundle exec jekyll serve --config _config.yml,_config-dev.yml
 
 # main text of home
-name: Göksu Güvendiren
-bio: Some fancy words here please
+name:  Göksu Güvendiren
+bio:   Some fancy words here please
 title: Hi, this is Göksu
 
 # twitter summary info
@@ -19,9 +19,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-raytracer: true
-
-# url: https://koppl.in/indigo
+url: http://goksuguvendiren.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -56,7 +54,7 @@ github: goksuguvendiren
 email: goksuguvendiren@gmail.com
 
 authors:
-    johndoe:
+    goksuguvendiren:
         name: Goksu Guvendiren
         bio: A woman who develops software with coffee
         external-image: true
