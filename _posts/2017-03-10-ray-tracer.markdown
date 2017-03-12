@@ -72,11 +72,12 @@ The link to the input file is
 <center>
 <p>
 This is the output of a complex mesh, and probably the most satisfactory one, although it may take a little 
-longer to see the results :) All the effects of lights are again visible in this image, and it takes around 
-... seconds to run.
+longer to see the results :) All the effects of lights are again visible in this image, and it takes 
+38.8 seconds on average to run.
  
 The link to the input file is 
 <a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/bunny.xml">here</a>.
+</p>
 
 </center>
 
