@@ -3,7 +3,7 @@ title: "Advanced Ray Tracer"
 layout: post
 date: 2017-03-10 11.00
 tag: ray tracer
-image: ../assets/images/profile.jpg
+image: ../assets/images/profile.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -14,9 +14,22 @@ author: goksuguvendiren
 externalLink: false
 ---
 
+<p align="center">
+  <img src="../assets/images/simple.png" alt="Simple" height="512" width="512"/>
+</p>
 
-![Normals](../assets/images/bunny_normals.png)
+<p align="center">
+  <img src="../assets/images/simple_shading.png" alt="Simple Shading" height="512" width="512"/>
+</p>
 
-Output of bunny.xml, when color is set to the surface normals :)
+<p align="center">
+  <img src="../assets/images/bunny.png" alt="Bunny" height="512" width="512"/>
+</p>
+
+<p align="center">
+  <img src="../assets/images/bunny_normals.png" alt="Bunny Normals" height="512" width="512"/>
+</p>
+
+
 
 ---

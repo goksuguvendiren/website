@@ -10,8 +10,8 @@ description: Some fancy words here please
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: assets/images/profile.jpg
+external-image: false
+picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -57,8 +57,8 @@ authors:
     goksuguvendiren:
         name: Goksu Guvendiren
         bio: Some more fancy words
-        external-image: true
-        picture: assets/images/profile.jpg
+        external-image: false
+        picture: assets/images/profile.png
         twitter: goksuguvendiren
 
 # do you want a larger site? change the option below
