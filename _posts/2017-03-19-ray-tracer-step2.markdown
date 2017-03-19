@@ -1,7 +1,7 @@
 ---
 title: "Ray Tracer Vol2"
 layout: post
-date: 2017-03-10 11.00
+date: 2017-03-19 11.00
 tag: ray tracer
 image: ../assets/images/profile.png
 headerImage: true
