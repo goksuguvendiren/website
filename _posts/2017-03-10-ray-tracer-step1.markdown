@@ -1,5 +1,5 @@
 ---
-title: "Ray Tracer"
+title: "Ray Tracer Vol1"
 layout: post
 date: 2017-03-10 11.00
 tag: ray tracer
