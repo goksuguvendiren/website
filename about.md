@@ -4,19 +4,18 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi! I am Göksu Güvendiren, a senior Computer Science student in the Middle East Technical
+University, Turkey. This page has been started with the purpose of representing my homework
+ for a course I am taking in the Spring2017, Advanced Ray Tracer. However, I think it is going to become some kind
+ of a blog, despite my inability to write :)
+ </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>If you wish to see how I am doing with that course, you can always check the <a href="https://goksu.me/projects">
+Projects</a>, I will try to keep it up-to-date as much as I can. Also, I think you will be able to see more 
+than my ray tracer, but who knows what the future holds :)</p>
+
+<p> Hoping to see you in future projects :)
+</p>
 
 <h2>Github Projects</h2>
 
