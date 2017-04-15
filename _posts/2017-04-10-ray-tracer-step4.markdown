@@ -97,7 +97,7 @@ The link to the input file is
 <center>
 <p>
 This scene includes only the transparency, but I think it shows its effects really well. This scene took around
-11 seconds.
+6.5 seconds.
 
 The link to the input file is 
 <a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw4_inputs/glass_plates.xml">here</a>.
