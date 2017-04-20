@@ -53,7 +53,7 @@ This is the output of Dragon, whose resolution is 800x800 pixels. The constructi
 5.8 seconds on average, and rendering takes 1.1sec.
  
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw3_inputs/dragon.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/3/dragon.xml">here</a>.
 </p>
 </center>
 
@@ -68,7 +68,7 @@ This image is the output of Killeroo, whose resolution is again 800x800. Unlike 
 of this scene is rather fast, it takes around 0.6sec, and rendering takes 0.45sec on average.
 
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw3_inputs/killeroo.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/3/killeroo.xml">here</a>.
 </p>
 </center>
 

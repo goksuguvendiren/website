@@ -38,7 +38,7 @@ the implementation of these two effects, the execution time of my ray tracer has
 there is still room for improvement. This 800x800 image took around 3.7 seconds.
 
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw4_inputs/cornellbox_glass.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/4/cornellbox_glass.xml">here</a>.
 </p>
 </center>
 
@@ -53,7 +53,7 @@ This image is the output of Glass Killeroo, whose resolution is again 800x800. U
 transparency takes really long. In this case, it is 38 seconds.
 
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw4_inputs/killeroo_glass.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/4/killeroo_glass.xml">here</a>.
 </p>
 </center>
 
@@ -68,7 +68,7 @@ The link to the input file is
 This image is the output of Killeroo, another 800x800 image. It takes 6.5 seconds to render the scene.
 
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw4_inputs/killeroo_half_mirror.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/4/killeroo_half_mirror.xml">here</a>.
 </p>
 </center>
 
@@ -84,7 +84,7 @@ This image is the last output of Killeroo's, the mirror killeroo, whose resoluti
 is more than enough to get this output.
 
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw4_inputs/killeroo_mirror.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/4/killeroo_mirror.xml">here</a>.
 </p>
 </center>
 
@@ -100,7 +100,7 @@ This scene includes only the transparency, but I think it shows its effects real
 6.5 seconds.
 
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw4_inputs/glass_plates.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/4/glass_plates.xml">here</a>.
 </p>
 </center>
 
@@ -117,7 +117,7 @@ This scene takes around a minute to render.
 
 
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw4_inputs/horse_and_glass_mug.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/4/horse_and_glass_mug.xml">here</a>.
 </p>
 </center>
 

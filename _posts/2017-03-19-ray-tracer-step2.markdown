@@ -42,7 +42,7 @@ This is the output of averaging the normals of the triangles on the mesh. This p
 takes approximately 33 seconds. The resolution is 512x512 pixels.
  
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw2_inputs/bunny_smooth.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/2/bunny_smooth.xml">here</a>.
 </p>
 </center>
 
@@ -57,7 +57,7 @@ In this input, we hope the see the result of mesh (and triangle) transformations
 pixels, and takes around 500 seconds to complete.
  
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw2_inputs/horse.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/2/horse.xml">here</a>.
 </p>
 </center>
 
@@ -73,7 +73,7 @@ mesh. Because of the number of pixels and vertices (and lack of any acceleration
 time has increased dramatically to almost 1500 seconds.
 
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw2_inputs/horse_instanced.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/2/horse_instanced.xml">here</a>.
 </p>
 
 </center>
@@ -87,7 +87,7 @@ This last input is for testing sphere transformations. As it can be seen, my pro
 such transformations without a problem, with a running time of 0.3 second. 
 
 The link to the input file can be found 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw2_inputs/spheres_transform.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/2/spheres_transform.xml">here</a>.
 </p>
 
 <center>

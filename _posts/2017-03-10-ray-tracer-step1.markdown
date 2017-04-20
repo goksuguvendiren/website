@@ -44,7 +44,7 @@ This is the most basic input of all. Tests for sphere and triangle intersections
 800x800 resolution takes 0.14 seconds on average to complete.
  
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw1_inputs/simple.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/1/simple.xml">here</a>.
 </p>
 </center>
 
@@ -60,7 +60,7 @@ In this case, the effects of light sources are more comprehensible, by the Phong
 sphere. 800x800 resolution takes 15.7 seconds on average.
  
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw1_inputs/simple_shading.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/1/simple_shading.xml">here</a>.
 </p>
 </center>
 
@@ -76,7 +76,7 @@ longer to see the results :) All the effects of lights are again visible in this
 38.8 seconds on average to run.
  
 The link to the input file is 
-<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/hw1_inputs/bunny.xml">here</a>.
+<a href="https://github.com/goksuguvendiren/AdvancedRayTracing/blob/master/inputs/1/bunny.xml">here</a>.
 </p>
 
 </center>
