@@ -13,7 +13,7 @@ category: project
 author: goksuguvendiren
 externalLink: false
 ---
-<center> Step 4 </center>
+<center> Step 5 </center>
 <center>
 <p>
 This is the fifth step of my Ray Tracer homework. This week, there are many new things which include 
