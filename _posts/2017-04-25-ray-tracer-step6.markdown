@@ -33,7 +33,8 @@ The input xml files and corresponding running times can still be found below eac
 
 <p>
 This image is the basics of texture mapping and perlin noise. You can see texture mapping on spheres, triangles,
-and meshes. Perlin noise types Vein and Patch can also be seen in spheres in lower left and right of the image.
+and meshes. Perlin noise types Vein and Patch can also be seen in spheres in lower left and right of the image. Multisampling
+was not used in this image, and it took 197ms to compute.
 </p>
 <p>
 The link to the input file is
@@ -49,7 +50,7 @@ The link to the input file is
 <center>
 <p>
 In this rendering, you can see how blending the texture into an already existing color affects the shape. Also bilinear
-mapping has been used for this image.
+mapping has been used for this image. In this set (3 images), 1 sample per pixel is used, and it takes 312 ms to render.
 </p>
 <p>
 The link to the input file is
@@ -65,7 +66,7 @@ The link to the input file is
 
 <center>
 <p>
-The diffuse color of the shape is obtained from the the texture itself in this blending technique.
+The diffuse color of the shape is obtained from the the texture itself in this blending technique. It takes around 290ms.
 </p>
 <p>
 The link to the input file is
@@ -82,7 +83,7 @@ The link to the input file is
 <center>
 <p>
 This is the last image of this series :) This one has been added to show the slight difference when we applied the
-nearest neighbor mapping while applying the texture.
+nearest neighbor mapping while applying the texture. It takes around 260ms.
 </p>
 <p>
 The link to the input file is
@@ -98,7 +99,8 @@ The link to the input file is
 
 <center>
 <p>
-This render is again the basics of texture mapping : Sphere and mesh textures.
+This render is again the basics of texture mapping : Sphere and mesh textures. I used 100 samples per pixel, and takes
+around 90 seconds to complete.
 </p>
 <p>
 The link to the input file is
@@ -115,7 +117,8 @@ The link to the input file is
 <center>
 <p>
 This image is the Killeroo again, but with a bit more fancy walls :) The shapes in the walls are obtained by
-mapping a similar looking image onto them. The rest is the same old killeroo.
+mapping a similar looking image onto them. The rest is the same old killeroo. 16 samples have been used, and it took 27
+seconds.
 </p>
 <p>
 The link to the input file is
@@ -133,7 +136,7 @@ The link to the input file is
 <p>
 This image contains only Perlin noise types. Also directional light has been used in this particular scene, and
 the shadows are problematic because of a bug in this lighting type. I will upload an updated version of this scene once
-I handled this bug.
+I handled this bug. Right now it takes around 4 seconds to render.
 </p>
 <p>
 The link to the input file is
