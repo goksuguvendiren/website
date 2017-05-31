@@ -151,7 +151,7 @@ And the killeroo with this Torrance-Sparrow BRDF looks like this :
 
 
 <p align="center">
-  <img src="../assets/images/8/brdf_torrancesparrow.png" alt="Torrance-Sparrow BRDF"/>
+  <img src="../assets/images/8/killeroo_torrancesparrow.png" alt="Torrance-Sparrow BRDF"/>
   <figcaption>Torrance-Sparrow BRDF</figcaption>
 </p>
 <center>
@@ -162,9 +162,12 @@ The link to the input file is
 </p>
 </center>
 
+<p>
+Lastly, killeroo with modified normalized Blinn-Phong is like this :
+</p>
 
 <p align="center">
-  <img src="../assets/images/8/brdf_torrancesparrow.png" alt="Torrance-Sparrow BRDF"/>
+  <img src="../assets/images/8/killeroo_blinnphong.png" alt="Torrance-Sparrow BRDF"/>
   <figcaption>Torrance-Sparrow BRDF</figcaption>
 </p>
 <center>
