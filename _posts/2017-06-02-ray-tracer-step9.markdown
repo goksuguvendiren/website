@@ -65,7 +65,7 @@ due to the refractive object. This render took 150 seconds.
 </p>
 
 <p align="center">
-  <img src="../assets/images/9/global_second.png" alt="Global Illumination with 128 samples"/>
+  <img src="../assets/images/9/global_fourth.png" alt="Global Illumination with 128 samples"/>
     <figcaption>Global Illumination with 128 samples</figcaption>
 </p>
 <center>
