@@ -7,7 +7,7 @@ image: ../assets/images/profile.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: This is the seventh step of my homework for the CENG795 - Advanced Ray Tracing course.
+description: This is the eighth step of my homework for the CENG795 - Advanced Ray Tracing course.
 jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f320.png" height="20" width="20" align="absmiddle">'
 category: project
 author: goksuguvendiren
