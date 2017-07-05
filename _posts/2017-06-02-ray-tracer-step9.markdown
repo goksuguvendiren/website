@@ -1,5 +1,5 @@
 ---
-title: "Ray Tracer Vol9"
+title: "Ray Tracer Vol9 : Path Tracer"
 layout: post
 date: 2017-05-14 11.00
 tag: ray tracer
@@ -13,7 +13,7 @@ category: project
 author: goksuguvendiren
 externalLink: false
 ---
-<center> Step 9 </center>
+<center> Step 9 : Path Tracer </center>
 <center>
 <p>
 This is the ninth, and last step of my Ray Tracer homework. This week I have added global illumination, and as a result,
