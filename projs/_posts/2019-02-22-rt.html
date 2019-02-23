@@ -1,0 +1,20 @@
+---
+layout: project
+title: Ray Tracer
+description: This project consist of the whole collection of homeworks I'd done for a the course CENG795 - Advanced Ray Tracing. The course was offered in METU, Ankara by Assoc. Prof. Ahmet Oguz Akyuz, in Spring2017 semester. The aim was to get to the depth of ray tracing in a mostly practical way. Here is the implementation of a ray tracer from scratch to path tracing, using C++.
+class: proj
+---
+
+<section class="list" id="single-project">
+    {% for post in site.categories.rt %} <!--change rt to other projects-->
+        {% if post.projects %}
+            <div class="item {% if post.star %}star{% endif %}">
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                    {{ post.jemoji }}<h3 class="title">{{ post.title }}</h3>
+                </a>
+            </div>
+        {% endif %}
+    {% endfor %}
+</section>
+
