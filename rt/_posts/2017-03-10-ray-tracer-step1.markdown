@@ -3,7 +3,7 @@ title: "Ray Tracer Vol1"
 layout: post
 date: 2017-03-10 11.00
 tag: ray tracer
-image: ../assets/images/profile.png
+image: ../../assets/images/profile.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination

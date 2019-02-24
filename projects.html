@@ -5,8 +5,10 @@ title: Projects
 
 <section class="list">
     {% for post in site.categories.projs %}
-        <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-            {{post.title}}
-        </a>
+        <div class="item {% if post.star %}star{% endif %}">
+            <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                {{post.title}}<br/>
+            </a>
+        </div>
     {% endfor %}
 </section>
