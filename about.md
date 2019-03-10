@@ -4,17 +4,24 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! I am Göksu Güvendiren, a senior Computer Science student in the Middle East Technical
-University, Turkey. This page has been started with the purpose of representing my homework
- for a course I am taking in the Spring2017, Advanced Ray Tracer. However, I think it is going to become some kind
- of a blog, despite my inability to write :)
+<p>Hi! I am Göksu Güvendiren Bakır, a first year Master's student in Computer Science in UC, Santa Barbara. This website 
+has began as a way to show off our homework results in one of my undergraduate courses, but now I tend to continue writing
+as some kind of a blog, despite my inability to write :)
  </p>
 
-<p>If you wish to see how I am doing with that course, you can always check the <a href="https://goksu.me/projects">
-Projects</a>, I will try to keep it up-to-date as much as I can. Also, I think you will be able to see more 
-than my ray tracer, but who knows what the future holds :)</p>
+<p>
+The course was an advanced ray tracing course during which I implemented a ray tracer from scratch to the more advanced
+parts gradually. You can find the posts for that project under *projects* tab.
+</p>
 
-<p> Hoping to see you in future projects :)
+<p> I'm also interested in computer vision, and especially computational photography. In one of my internships, I worked 
+in the implementation of a High Dynamic Range(HDR) image viewer that works on the browser, without the need of a huge 
+program to display HDR images.
+
+If you're rendering HDR, but tonemapping it before saving it, don't do it anymore. Just save the image as .hdr or .exr, 
+and you can view it in my hdr viewer. You can even choose different tonemappers and change their parameters and share 
+them with other people.  If you would like to give it a try, you can find the link, and some explanation in the 
+*projects* tab as well. 
 </p>
 
 <h2>Github Projects</h2>

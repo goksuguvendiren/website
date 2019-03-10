@@ -1,0 +1,20 @@
+---
+layout: project
+title: GPU Path Tracer
+description: This project begins with the nVidia's OptiX SDK, and will hopefully implement further path tracer functionalities to it.
+class: proj
+---
+
+<section class="list" id="single-project">
+    {% for post in site.categories.rtpt %} <!--change rt to other projects-->
+        {% if post.projects %}
+            <div class="item {% if post.star %}star{% endif %}">
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                    {{ post.jemoji }}<h3 class="title">{{ post.title }}</h3>
+                </a>
+            </div>
+        {% endif %}
+    {% endfor %}
+</section>
+
