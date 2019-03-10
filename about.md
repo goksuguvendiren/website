@@ -22,6 +22,12 @@ If you're rendering HDR, but tonemapping it before saving it, don't do it anymor
 and you can view it in my hdr viewer. You can even choose different tonemappers and change their parameters and share 
 them with other people.  If you would like to give it a try, you can find the link, and some explanation in the 
 *projects* tab as well. 
+
+Currently towards my MS degree, I intend to work on rendering, but in GPU this time. I started implementing a raytracer 
+using nVidia's OptiX SDK, and I will try to keep up with my work by writing what I am doing, to be a reference to myself
+since I am very new to the SDK and it's architecture.
+
+Please do not hesitate to email me if you have any comments, or suggestions!
 </p>
 
 <h2>Github Projects</h2>
