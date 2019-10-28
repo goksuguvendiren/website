@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! I am Göksu Güvendiren Bakır, a first year Master's student in Computer Science in UC, Santa Barbara. This website 
+<p>Hi! I am Göksu Güvendiren Bakır, a second year MS student in Computer Science in UC, Santa Barbara. This website 
 has began as a way to show off our homework results in one of my undergraduate courses, but now I tend to continue writing
 as some kind of a blog, despite my inability to write :)
  </p>

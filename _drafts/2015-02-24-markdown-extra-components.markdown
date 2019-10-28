@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Markdown Extra Components"
 layout: post
 date: 2016-02-24 22:48
@@ -8,7 +8,7 @@ tag:
 - markdown
 - components
 - extra
-category: blog
+# category: blog
 author: jamesfoster
 description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
@@ -194,4 +194,4 @@ Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste o
 [3]: http://www.markitdown.net/
 [4]: http://daringfireball.net/projects/markdown/basics
 [5]: http://daringfireball.net/projects/markdown/syntax
-[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+[6]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg -->
