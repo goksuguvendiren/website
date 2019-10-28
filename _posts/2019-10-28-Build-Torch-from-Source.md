@@ -13,7 +13,7 @@ externalLink: false
 
 ## Building Torch from Source
 
-Recently I've needed to use the C++ interface of Torch, and am actually surprised to see how little information is out there about everything related to it. Everything I've found is pretty much what I've found through forums and questions bit by bit. Even for building it from the source doesn't have a documentation. The README in the github page explains the usage of a setup script, but I ended up not being able to run it. Then you just have to somehow figure it out another way to build it. 
+Recently I've needed to use the C++ interface of Torch, and am actually surprised to see how little information is out there about everything related to it. Everything I've found is pretty much what I've found through forums and questions bit by bit. Even for building it from the source doesn't have a documentation. The README in the github page explains the usage of a setup script, but I ended up not being able to run it. Then you just have to somehow figure out another way to build it. 
 
 Although so far it looks trivial to build it with prior knowledge on *git* and *CMake*, it would save me some time if there were some documentation explaining step by step. This page is for my own future reference, but you're welcome to correct me if you see something that can be improved.
 
